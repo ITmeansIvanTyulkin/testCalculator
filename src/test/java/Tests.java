@@ -1,6 +1,10 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+/* Это непараметризованные тесты.
+Используемые в них литералы - идентичны параметризованным тестам в CalculatorTests.
+*/
+
 public class Tests {
     // Sum tests.
     @Test
